@@ -3,7 +3,7 @@
 ![Chess Knight Game](docs\SuperChessKnightGame.svg)
 
 # About
-Chess Knight Game is a *knight* tutorial from the game of [Chess](https://en.wikipedia.org/wiki/Chess). The tutorial begins by spawning a **single knight piece** and **a beacon** at random positions on the board.
+Chess Knight Game is a *knight* tutorial for learning how to move the knight piece from the game of [Chess](https://en.wikipedia.org/wiki/Chess). The tutorial begins by spawning a **single knight piece** and **a beacon** at random positions on the board.
 
 The player then needs to move the knight to the beacon's position, using *valid knight moves*.
 
