@@ -288,6 +288,7 @@ build-iPhoneSimulator/
 /_yardoc/
 /doc/
 /rdoc/
+/docs/
 
 /.bundle/
 /lib/bundler/man/

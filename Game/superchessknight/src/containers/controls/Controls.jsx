@@ -5,8 +5,8 @@ import Buttons from '../../components/buttons/Buttons';
 const Controls = () => {
     return (
         <div className="game__controls">
-            <Buttons id={'start-game'} onClick={'Hello'} buttonText={'Start Game'} />
-            <Buttons id={'help'} buttonText={'Help'}/>
+            <Buttons id={'begin'} onClick={'Hello'} buttonText={'Begin'} />
+            <Buttons id={'help'} message={"Clicked."} buttonText={'Help'}/>
         </div>
     )
 }

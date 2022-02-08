@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import './buttons.css';
 
 // passing functions as parameters to child component
-const testFunction = (props) => {
-    console.log(props);
+const testFunction = (message) => {
+    console.log(message);
 };
 
 const Button = ({id, message, buttonText }) => {
